@@ -1,0 +1,28 @@
+p {
+    color: gray;
+    font-family: 'Inconsolata', monospace;
+}
+#pagesButton {
+    background: blue;
+    border: none;
+    color: white;
+    min-height: 50px;
+    min-width: 120px;
+    border-radius: 5px;
+    font-family: 'Inconsolata', monospace;
+}
+#documentationButton{
+    border: none;
+    background: rgb(235, 235, 245);
+    color: blue;
+    min-height: 50px;
+    min-width: 120px;
+    border-radius: 5px;
+    font-family: 'Inconsolata', monospace;
+}
+h1 {
+    font-family: 'Inconsolata', monospace;
+}
+.heading {
+    color: blue;
+}
