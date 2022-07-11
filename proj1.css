@@ -1,28 +1,33 @@
 p {
-    color: gray;
-    font-family: 'Inconsolata', monospace;
+    color: rgb(144, 161, 190);
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 30px;
+    font-size: 18px;
 }
-#pagesButton {
-    background: blue;
+.pagesButton {
+    background-color: rgb(51, 94, 234);
     border: none;
     color: white;
     min-height: 50px;
-    min-width: 120px;
+    min-width: 160px;
     border-radius: 5px;
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Open Sans', sans-serif;
+    margin-right: 5px;
 }
-#documentationButton{
+.documentationButton{
     border: none;
-    background: rgb(235, 235, 245);
-    color: blue;
+    background-color: rgb(234, 238, 253);
+    color: rgb(62, 103, 234);
     min-height: 50px;
-    min-width: 120px;
+    min-width: 150px;
     border-radius: 5px;
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Open Sans', sans-serif;
 }
 h1 {
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
 }
 .heading {
-    color: blue;
+    color: rgb(51, 94, 234);
+    font-size: 40px;
 }
