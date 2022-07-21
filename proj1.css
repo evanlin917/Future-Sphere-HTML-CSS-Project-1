@@ -1,33 +1,44 @@
-p {
-    color: rgb(144, 161, 190);
-    font-family: 'Open Sans', sans-serif;
-    margin-bottom: 30px;
-    font-size: 18px;
-}
 .pagesButton {
-    background-color: rgb(51, 94, 234);
-    border: none;
+    background-color: rgb(51,94,234);
     color: white;
-    min-height: 50px;
-    min-width: 160px;
-    border-radius: 5px;
-    font-family: 'Open Sans', sans-serif;
-    margin-right: 5px;
-}
-.documentationButton{
     border: none;
-    background-color: rgb(234, 238, 253);
-    color: rgb(62, 103, 234);
-    min-height: 50px;
-    min-width: 150px;
+    height: 65px;
+    width: 200px;
     border-radius: 5px;
+    font-size: 17px;
+    margin-right: 5px;
     font-family: 'Open Sans', sans-serif;
 }
-h1 {
+
+.documentationButton {
+    background-color: rgb(234, 238, 253);
+    color: rgb(51,94,234);
+    border: none;
+    height: 65px;
+    width: 175px;
+    border-radius: 5px;
+    font-size: 17px;
     font-family: 'Open Sans', sans-serif;
-    font-size: 40px;
 }
-.heading {
-    color: rgb(51, 94, 234);
-    font-size: 40px;
+
+.introText {
+    margin: auto;
+    max-width: 1024px;
+    width: 100%;
+}
+
+.introText h1 {
+    color: black;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.landkit {
+    color: rgb(51,94,234);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.introText p {
+    color: rgb(155, 179, 198);
+    font-family: 'Open Sans', sans-serif;
 }
